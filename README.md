@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raafea
+- 👋 Hi, I’m @rafea d
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning kotlin and javascript
 - 💞️ I’m looking to collaborate on android development projects
